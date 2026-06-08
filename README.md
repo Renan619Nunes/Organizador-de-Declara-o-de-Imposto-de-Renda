@@ -14,3 +14,5 @@ Acesse a demonstração pelo link abaixo:
 **https://docs.google.com/spreadsheets/d/1Ek0WwiZ-aQQVWs_xROPfRMphVO-yEf2S/edit?usp=sharing&ouid=100375217507968016395&rtpof=true&sd=true**
 
 _Obs.: O download pode estar desabilitado para preservar a estrutura e as funcionalidades da planilha._
+
+Incluído também hyperlinks das redes sociais do contador e também email automatico para o endereço eletrônico do cliente.
